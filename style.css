@@ -1,0 +1,41 @@
+.maindiv{
+    text-align: center;
+    margin-top: 10px;
+}
+hr{
+    color: black;
+    height: 2px;
+    width: inherit;
+}
+.heading{
+    font-weight: bold;
+    font-family: 'Francois One', sans-serif;
+}
+#navbar{
+    background-color: white;
+}
+.btn{
+    background-color: transparent;
+    color: black;
+    font-size: 10px;
+}
+.card{
+    margin: 10px;
+    border: 1px solid black;
+    font-size: 1.2vw;
+}
+.textcol{
+    text-align: left;
+    font-family: 'Francois One', sans-serif;
+}
+.imgcard{
+    height: 15vw;
+    width: 30vw;
+}
+.col-lg-1{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.container{
+    width: auto;
+}
